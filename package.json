@@ -10,7 +10,7 @@
     "bcryptjs": "^2.4.3",
     "easygraphql-tester": "^5.1.5",
     "graphql": "^14.3.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.6.1",
     "nodemon": "^1.19.1"
   },
